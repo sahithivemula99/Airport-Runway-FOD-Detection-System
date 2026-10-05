@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Ultralytics Large Models
+*.pt
+
+# System & IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary outputs
+outputs/*.jpg
